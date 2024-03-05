@@ -21,7 +21,7 @@ export class UserComponent {
       },
       (error) => {
         // Handle error
-        console.error('Error fetching data:', error);
+        console.error('Error gn v  data:', error);
       }
     );
   }
